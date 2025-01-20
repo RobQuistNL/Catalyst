@@ -1,8 +1,13 @@
 {
-    "id": "1a96beaf-0abb-41a8-bdd2-719de3fc434c",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "debug_log",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"debug_log",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"debug_log",
+  "parent":{
+    "name":"general",
+    "path":"folders/Scripts/vendor/gamemakerhub/extended-functions/general.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

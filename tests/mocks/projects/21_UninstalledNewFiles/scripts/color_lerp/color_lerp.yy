@@ -1,8 +1,13 @@
 {
-    "id": "7c058ab3-5489-4814-be08-cbce0ec50f68",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "color_lerp",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"color_lerp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"color_lerp",
+  "parent":{
+    "name":"animations and tweening",
+    "path":"folders/Scripts/vendor/gamemakerhub/extended-functions/animations and tweening.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,8 +1,13 @@
 {
-    "id": "15b91ad5-7025-42f5-b277-ba17c26613be",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "get_nearest_instances",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"get_nearest_instances",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_nearest_instances",
+  "parent":{
+    "name":"find_instances",
+    "path":"folders/Scripts/vendor/gamemakerhub/extended-functions/find_instances.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

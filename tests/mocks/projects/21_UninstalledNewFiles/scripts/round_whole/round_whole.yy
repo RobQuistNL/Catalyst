@@ -1,8 +1,13 @@
 {
-    "id": "bf559592-fd8b-412a-b23f-f5e377954aa7",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "round_whole",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"round_whole",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"round_whole",
+  "parent":{
+    "name":"general",
+    "path":"folders/Scripts/vendor/gamemakerhub/extended-functions/general.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

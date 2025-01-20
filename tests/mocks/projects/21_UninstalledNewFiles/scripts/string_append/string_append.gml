@@ -3,15 +3,19 @@
 /// @param string
 /// @param  appendchar
 /// @param  length
-var str = string(argument0);
-var appendchar = string(argument1);
-if (string_length(str) >= argument2) {
-   return str;
-}
-while (string_length(str) < argument2) {
-      str = str + appendchar;
-}
+function string_append(argument0, argument1, argument2) {
+	var str = string(argument0);
+	var appendchar = string(argument1);
+	if (string_length(str) >= argument2) {
+	   return str;
+	}
+	while (string_length(str) < argument2) {
+	      str = str + appendchar;
+	}
 
-var overflow = string_length(str) - argument2;
+	var overflow = string_length(str) - argument2;
 
-return string_copy(str, overflow, argument2);
+	return string_copy(str, overflow, argument2);
+
+
+}

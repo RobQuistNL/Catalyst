@@ -1,8 +1,13 @@
 {
-    "id": "848d5b5d-2c08-427c-b350-5efa41453fde",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "bit_from_byte",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"bit_from_byte",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bit_from_byte",
+  "parent":{
+    "name":"binary",
+    "path":"folders/Scripts/vendor/gamemakerhub/extended-functions/binary.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

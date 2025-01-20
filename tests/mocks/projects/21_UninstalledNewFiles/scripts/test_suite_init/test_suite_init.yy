@@ -1,8 +1,13 @@
 {
-    "id": "c86e7bc6-ae4a-4b5c-b1fc-464149a0a693",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "test_suite_init",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"test_suite_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"test_suite_init",
+  "parent":{
+    "name":"testfunctions",
+    "path":"folders/Scripts/vendor/gamemakerhub/extended-functions/testfunctions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

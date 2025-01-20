@@ -1,8 +1,13 @@
 {
-    "id": "5a91fe81-2c01-47f8-be11-c40932803e69",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "array_implode",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"array_implode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"array_implode",
+  "parent":{
+    "name":"stringfunctions",
+    "path":"folders/Scripts/vendor/gamemakerhub/extended-functions/stringfunctions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

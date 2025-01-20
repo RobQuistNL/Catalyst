@@ -1,8 +1,13 @@
 {
-    "id": "bc0f367b-e859-4b79-a39d-481caf1878b8",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "script_notgone_test3",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"script_notgone_test3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_notgone_test3",
+  "parent":{
+    "name":"group_notgone_test2",
+    "path":"folders/Scripts/group_notgone_test2.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

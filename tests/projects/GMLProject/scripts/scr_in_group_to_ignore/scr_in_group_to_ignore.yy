@@ -1,8 +1,13 @@
 {
-    "id": "a405ab5b-6a70-4600-be21-0c562da1c496",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_in_group_to_ignore",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"scr_in_group_to_ignore",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_in_group_to_ignore",
+  "parent":{
+    "name":"group_to_ignore",
+    "path":"folders/Scripts/group_to_ignore.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

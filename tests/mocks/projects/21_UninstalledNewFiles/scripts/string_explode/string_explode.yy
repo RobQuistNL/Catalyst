@@ -1,8 +1,13 @@
 {
-    "id": "f83411bf-0399-49ac-b2a2-e5b64094a60e",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "string_explode",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"string_explode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_explode",
+  "parent":{
+    "name":"stringfunctions",
+    "path":"folders/Scripts/vendor/gamemakerhub/extended-functions/stringfunctions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

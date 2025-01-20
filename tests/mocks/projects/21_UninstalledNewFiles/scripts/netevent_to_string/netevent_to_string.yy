@@ -1,8 +1,13 @@
 {
-    "id": "687d82f8-8c08-4a9e-babc-3c3fafd281c3",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "netevent_to_string",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"netevent_to_string",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"netevent_to_string",
+  "parent":{
+    "name":"general",
+    "path":"folders/Scripts/vendor/gamemakerhub/extended-functions/general.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

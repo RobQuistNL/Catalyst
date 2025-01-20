@@ -1,6 +1,10 @@
 ///Multiply the 2 given numbers
-//@param a
-//@param b
-//@return real
+function scr_multiply(argument0, argument1) {
+	//@param a
+	//@param b
+	//@return real
 
-return argument0 * argument1;
+	return argument0 * argument1;
+
+
+}

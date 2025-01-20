@@ -1,8 +1,13 @@
 {
-    "id": "efc2afd5-41de-4c26-a080-67a0882644cf",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "extract_header_from_string",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"extract_header_from_string",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"extract_header_from_string",
+  "parent":{
+    "name":"http",
+    "path":"folders/Scripts/vendor/gamemakerhub/extended-functions/http.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

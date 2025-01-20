@@ -1,8 +1,13 @@
 {
-    "id": "6c989c40-3f2d-4053-a43f-7c53c0927e2f",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "string_ends_with",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"string_ends_with",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_ends_with",
+  "parent":{
+    "name":"stringfunctions",
+    "path":"folders/Scripts/vendor/gamemakerhub/extended-functions/stringfunctions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

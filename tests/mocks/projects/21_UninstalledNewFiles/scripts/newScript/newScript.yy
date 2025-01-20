@@ -1,8 +1,13 @@
 {
-    "id": "75b7ff54-9869-4609-b472-4097ae69b2ac",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "newScript",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"newScript",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"newScript",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
